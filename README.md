@@ -1,6 +1,6 @@
 # 💫 Bienvenidos:
 Hola, soy Andrea actualmente me encuentro aprendiendo sobre el mundo del desarrollo web, además de los lenguajes de programación he aprendido sobre metodologias SCRUM, las cuales he aplicado a distintos proyectos que puedes encontrar aqui.  Estos conocimientos complementan mi primer carrera profesional de matematicas aplicadas la cual me brindó las herramientas para brindar soluciones matemáticas a proyectos interdisiplinarios. Estoy interesada en aprende sobre desarrollo frontend para crear soluciones en el almacenamiento de la información proporcionada por los usuarios de las aplicaciones web, para su posterior análisi e intepretación. Puedes visitar mi perfil en 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andreaapariciog).
+[![LinkedIn](https://linkedin.com/in/andreaapariciog).
 
 Finalmente, algunas herramientas que he usado en distintos proyectos son:
 
